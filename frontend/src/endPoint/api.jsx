@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BaseUrl = "http://127.0.0.1:3005";
+const BaseUrl = "http://127.0.0.1:3005/api";
 
 const endPoint = {
     LOGIN: `${BaseUrl}/user/login`,
